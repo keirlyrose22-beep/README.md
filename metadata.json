@@ -1,0 +1,6 @@
+{
+  "name": "Avon Product and Inventory Management System",
+  "description": "An integrated inventory and product management system tailored for Avon distribution offices to track stock levels, incoming shipments, representative orders, and generate instant reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
